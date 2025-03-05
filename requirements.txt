@@ -1,0 +1,5 @@
+chainlit
+requests
+ollama
+flask
+jsonify
