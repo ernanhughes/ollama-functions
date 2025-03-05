@@ -1,4 +1,4 @@
-chainlit
+ipykernel
 requests
 ollama
 flask
